@@ -1,0 +1,7 @@
+D:\Gagan\.NET\CompleteDotnetTraining\SampleDatabaseApp\SampleDatabaseApp\bin\Debug\SampleDatabaseApp.exe.config
+D:\Gagan\.NET\CompleteDotnetTraining\SampleDatabaseApp\SampleDatabaseApp\bin\Debug\SampleDatabaseApp.exe
+D:\Gagan\.NET\CompleteDotnetTraining\SampleDatabaseApp\SampleDatabaseApp\bin\Debug\SampleDatabaseApp.pdb
+D:\Gagan\.NET\CompleteDotnetTraining\SampleDatabaseApp\SampleDatabaseApp\obj\Debug\SampleDatabaseApp.csprojAssemblyReference.cache
+D:\Gagan\.NET\CompleteDotnetTraining\SampleDatabaseApp\SampleDatabaseApp\obj\Debug\SampleDatabaseApp.csproj.CoreCompileInputs.cache
+D:\Gagan\.NET\CompleteDotnetTraining\SampleDatabaseApp\SampleDatabaseApp\obj\Debug\SampleDatabaseApp.exe
+D:\Gagan\.NET\CompleteDotnetTraining\SampleDatabaseApp\SampleDatabaseApp\obj\Debug\SampleDatabaseApp.pdb
